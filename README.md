@@ -4,7 +4,7 @@ Last updated: 17-04-2025
 
 ## Introduction
 
-Alif Bay Expenses ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Alif Bay Expenses we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
 ## Information We Collect
 
@@ -54,13 +54,11 @@ You have the right to:
 - Access your personal data
 - Correct inaccurate data
 - Request deletion of your data
-- Export your data (available through the App's export feature)
 
 ## Data Export and Backup
 
 The App provides features to:
 - Export your financial data in CSV format
-- Backup your data to cloud storage
 
 ## Children's Privacy
 
